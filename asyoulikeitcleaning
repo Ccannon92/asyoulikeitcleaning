@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"><meta name="description" content="Professional, reliable, and eco-friendly cleaning services in [Your City]. Call now for spotless results.">
+<meta name="keywords" content="house cleaning, commercial cleaning, eco-friendly cleaning, deep cleaning, best cleaners in [Your City]">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="As You Like It Cleaning Services">
+<meta property="og:description" content="Reliable home and office cleaning services for a spotless space.">
+<meta property="og:url" content="https://www.asyoulikeitcleaningservices.com">
+<meta property="og:type" content="business.business">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>As You Like It Cleaning Services</title>
     <style>
+<h1>Top-Rated Cleaning Services in [Your City]</h1>
+<p>Looking for a reliable, eco-friendly cleaning company near you? As You Like It Cleaning Services offers deep cleaning, recurring cleanings, and commercial janitorial services tailored to your needs.</p>
+<a href="/deep-cleaning-services">Explore Our Deep Cleaning Services</a>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -82,6 +92,26 @@
             border-radius: 8px;
         }
     </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "As You Like It Cleaning Services",
+  "image": "https://www.asyoulikeitcleaningservices.com/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetaddress": "2224 N Lily Rd",
+    "addressLocality": "Spokane Valley",
+    "addressRegion": "WA",
+    "postalCode": "99212",
+    "addresscountry": "US"
+  },
+  "url": "https://www.asyoulikeitcleaningservices.com",
+  "telephone": "+1-555-123-4567",
+  "priceRange": "$$",
+  "description": "Eco-friendly, reliable home and commercial cleaning in Your City."
+}
+</script>
 </head>
 <body>
     <header>As You Like It Cleaning Services</header>
@@ -138,3 +168,4 @@
     </div>
 </body>
 </html>
+"Added SEO meta tags and schema markup for better Google rankings"
